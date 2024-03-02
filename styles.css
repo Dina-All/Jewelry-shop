@@ -1,0 +1,45 @@
+ h1 {
+        color: #caa4a3;
+        text-align: center;
+        
+    }  
+    h2{
+         color: #d3b3b2 ;
+        text-align: center;
+    }  
+    p {
+        font-size: 100% ;
+    }
+    form{
+color: #caa4a3;
+
+
+    }
+    body{
+background-color:#eee0df;
+
+
+    }
+    div{
+        text-align: center;
+    }
+    img{
+        padding: 20px;
+        border-color: #caa4a3;
+        border-width: 70px;
+    }
+    table{
+        border:1px solid;
+        background-color: #caa4a3;
+        text-align: center;
+        width: 40%;
+        text-align: center;
+       vertical-align: middle;
+       position: absolute;
+       padding: 20px;
+    left: 400px;
+    
+
+
+    }
+ 

@@ -1,0 +1,56 @@
+
+    * {
+        box-sizing: border-box;
+        font-family: 'Poppins', 'Tahoma';
+    }
+
+    body {
+        margin: 0px auto;
+    }
+
+    li a:hover:not(.active) {
+        color: #212121
+    }
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
+
+    .col-6 {
+        width: 50%;
+        float: left;
+        padding: 40px;
+    }
+
+    .card {
+        padding: 20px;
+        background-color: #dcc2c1;
+        box-shadow: 5px 7px #caa4a3;
+    }
+
+    .text-card {
+        padding: 0;
+    }
+
+    .text-card .text-left {
+        float: left
+    }
+
+    .text-card .text-right {
+        float: right;
+    }
+
+    .input-voucher {
+        width: 89%;
+        padding: 10px;
+        margin: 8px 0;
+        box-sizing: border-box;
+    }
+
+    .btn-voucher {
+        padding: 10px;
+        width: 10%;
+        background-color: white;
+        color: black;
+    }

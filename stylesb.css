@@ -1,0 +1,45 @@
+ h1 {
+        color: #caa4a3;
+        text-align: center;
+        
+    }  
+    h2{
+         color: #d3b3b2 ;
+        text-align: center;
+    }  
+    p {
+        font-size: 100% ;
+        background-color: #e5d1d0;
+        
+    }
+    body{
+background-color:#eee0df;
+
+
+    }
+    h3{
+background-color: #dcc2c1;
+    }
+    div{
+        text-align: center;
+    }
+    img{
+         padding: 20px;
+        border-color: #caa4a3;
+        border-width: 70px;
+        width:350;
+        height:410;
+    }
+    .ch{
+position: relative;
+      width:350;
+        height:410;  
+    }
+    .ch:hover{
+        position: absolute;
+        transition: opacity .2s;
+        content: url("C:\Users\nd4uu\OneDrive\Desktop\sleep.jpg");
+        width:350;
+        height:410;
+    }
+    
